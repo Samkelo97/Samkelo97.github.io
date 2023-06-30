@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "title": "Ecru sweat pants",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 1,
+            "image_url": "https://i.postimg.cc/7PcT7hPt/Nike-Men-s-Ecru-Sweat-Pants-removebg-preview.png",
+            "price": 899
+        },
+        {
+            "title": "Club jogger pants",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 2,
+            "image_url":"https://i.postimg.cc/zXKSGKwF/Nike-Men-s-Black-NSW-Club-Jogger-Pants-removebg-preview.png",
+            "price": 1199
+        },
+        {
+            "title": "Blue cargo pants",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 3,
+            "image_url": "https://i.postimg.cc/yx99WCR8/Nike-Club-Blue-Cargo-Pants-removebg-preview.png",
+            "price": 1399
+        },
+       
+        {
+            "title": "windbreaker jacket",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 5,
+            "image_url": "https://i.postimg.cc/bvLC0bxM/Nike-Men-s-Olive-Green-Windbreaker-Jacket-removebg-preview.png",
+            "price": 1899
+        },
+        {
+            "title": "Harrington jacket",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 6,
+            "image_url": "https://i.postimg.cc/9QbKbvVJ/Nike-Men-s-Green-Harrington-Jacket-removebg-preview.png",
+            "price": 1699
+        },
+        {
+            "title": "Storm windrunner",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 7,
+            "image_url": "https://i.postimg.cc/hjT0ydTc/Nike-Sportswear-Storm-FIT-Windrunner-Men-s-PRIMALOFT-Black-Filled-Parka-removebg-preview.png c4",
+            "price": 2399
+        },
+        {
+            "title": "original mc multicolor",
+            "desc": "Adidas",
+            "quantity": "5",
+            "id": 8,
+            "image_url": "https://i.postimg.cc/L6jvg9sF/adidas-Originals-MC-Multicolour-Cap-removebg-preview.png",
+            "price": 399
+        },
+        {
+            "title": "black satin cap",
+            "desc": "Adidas",
+            "quantity": "5",
+            "id": 1,
+            "image_url": "https://i.postimg.cc/s2xgGLK5/adidas-Originals-Black-Satin-Cap-removebg-preview.png",
+            "price": 349
+        },
+        {
+            "title": "white running cap",
+            "desc": "Adidas",
+            "quantity": "5",
+            "id": 2,
+            "image_url":"https://i.postimg.cc/ZYr6V9F0/adidas-Essential-White-Running-Cap-removebg-preview.png",
+            "price": 349
+        },
+        {
+            "title": "air-max black sneaker",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 3,
+            "image_url": "https://i.postimg.cc/V6LVC5ng/Nike-Men-s-Air-Max-Black-Sneaker-removebg-preview.png",
+            "price": 2899
+        },
+        {
+            "title": "junior freak sneaker",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 4,
+            "image_url": "https://i.postimg.cc/XYjHhpDb/Nike-Junior-Freak-4-Black-Sneaker-Nike-Junior-Freak-4-Black-Sneaker-removebg-preview.png",
+            "price": 2699
+        },
+        {
+            "title": "air-max alpha",
+            "desc": "Nike",
+            "quantity": "5",
+            "id": 5,
+            "image_url": "https://i.postimg.cc/5tH3dvBZ/mens-airmax-alpha-removebg-preview.png",
+            "price": 2899
+        }
+       
+    
+    ]
+   
+}
